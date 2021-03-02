@@ -9,6 +9,8 @@ namespace ProjetoNovo
             Console.WriteLine("Projeto Git");
 
             Console.WriteLine("Bom dia!");
+
+            Console.WriteLine("Boa tarde!");
         }
     }
 }
