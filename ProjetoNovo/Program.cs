@@ -8,11 +8,11 @@ namespace ProjetoNovo
         {
             Console.WriteLine("Projeto Git");
 
-            Console.WriteLine("Bom dia!");
-
             Console.WriteLine("Boa tarde!");
 
             Console.WriteLine("Boa noite!");
+
+            Console.WriteLine("Novo dia!");
         }
     }
 }
